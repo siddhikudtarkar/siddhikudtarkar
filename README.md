@@ -1,6 +1,4 @@
 
-  ## Hi there 👋
-
 <!--
 **siddhikudtarkar/siddhikudtarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 I'm **Siddhi**, a B.E. Engineering graduate who is passionate about coding enjoys learning how real-world software systems are built and how things work behind the scenes.
-I m am currently pursuing course of Java Full Stack Devlopment with AI-ML from Seed Infotech ,Thane
+
 ---
 
 ### 🔭 I’m currently working on
